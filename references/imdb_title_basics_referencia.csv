@@ -1,10 +1,10 @@
 Nome da Variável;Tipo;Descrição;Unidades;Valores Faltantes
-tconst;Categórico Regular;"Identificador alfanumérico único para o título.";N/A;"Não 0"
-titleType;Categórico Regular;"O tipo de título (ex: movie, short, tvSeries).";N/A;"Não 0"
-primaryTitle;Textual;"O título mais conhecido na língua original ou oficial.";N/A;"Não 0"
-originalTitle;Textual;"O título original do trabalho.";N/A;"Não 0"
-isAdult;Categórico Regular (Binário);"Indicador binário (0 ou 1) se o título é considerado adulto.";N/A;"Não 0"
-startYear;Numérico Discreto;"O ano de lançamento/início de produção (contém \N para nulos).";Anos;"Não 0"
-endYear;Numérico Discreto;"O ano final de produção (para séries, contém \N para nulos).";Anos;"Não 0"
-runtimeMinutes;Numérico Contínuo;"Duração primária do título; em minutos (contém \N para nulos).";Minutos;"Não 0"
-genres;Categórico;"Lista de até três gêneros associados ao título.";N/A;"Sim 610"
+tconst;Categórico Regular;Identificador alfanumérico único para o título.;N/A;Não 0
+titleType;Categórico Regular;O tipo de título (ex: movie, short, tvSeries).;N/A;Não 0
+primaryTitle;Textual;O título mais conhecido na língua original ou oficial.;N/A;Não 0
+originalTitle;Textual;O título original do trabalho.;N/A;Não 0
+isAdult;Categórico Regular (Binário);Indicador binário (0 ou 1) se o título é considerado adulto.;N/A;Não 0
+startYear;Numérico Discreto;O ano de lançamento/início de produção (contém \N para nulos).;Anos;Não 0
+endYear;Numérico Discreto;O ano final de produção (para séries, contém \N para nulos).;Anos;Não 0
+runtimeMinutes;Numérico Contínuo;Duração primária do título, em minutos (contém \N para nulos).;Minutos;Não 0
+genres;Categórico;Lista de até três gêneros associados ao título.;N/A;Sim 610
