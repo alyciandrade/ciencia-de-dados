@@ -7,4 +7,8 @@ isAdult;Categórico Regular (Binário);Indicador binário (0 ou 1) se o título 
 startYear;Numérico Discreto;O ano de lançamento/início de produção (contém \N para nulos).;Anos;Não (0)
 endYear;Numérico Discreto;O ano final de produção (para séries, contém \N para nulos).;Anos;Não (0)
 runtimeMinutes;Numérico Contínuo;Duração primária do título; em minutos (contém \N para nulos).;Minutos;Não (0)
+<<<<<<< HEAD
 genres;Categórico;Lista de até três gêneros associados ao título.;N/A;Sim (610)
+=======
+genres;Categórico;Lista de até três gêneros associados ao título.;N/A;Sim (610)
+>>>>>>> f741bb5511061881ad56dae399c61db1245000da
