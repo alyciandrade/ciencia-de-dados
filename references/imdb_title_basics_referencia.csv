@@ -1,6 +1,6 @@
 Nome da Variável;Tipo;Descrição;Unidades;Valores Faltantes
 tconst;Categórico Regular;Identificador alfanumérico único para o título.;N/A;Não (0)
-titleType;Categórico Regular;O tipo de título (ex: movie, short, tvSeries).;N/A;Não (0)
+titleType;Categórico Regular;O tipo de título.;N/A;Não (0)
 primaryTitle;Textual;O título mais conhecido na língua original ou oficial.;N/A;Não (0)
 originalTitle;Textual;O título original do trabalho.;N/A;Não (0)
 isAdult;Categórico Regular (Binário);Indicador binário (0 ou 1) se o título é considerado adulto.;N/A;Não (0)
